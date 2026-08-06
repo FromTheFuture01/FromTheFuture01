@@ -47,6 +47,8 @@ When building software, I value:
 - Clean architecture over unnecessary complexity
 - Automation over repetitive manual work
 - Defensive programming
+- Clear and thorough documentation
+- Step-by-step technical explanations
 - Reproducible workflows
 - Maintainable code
 - Continuous learning and improvement
