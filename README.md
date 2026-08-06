@@ -77,4 +77,4 @@ I'm gradually open-sourcing projects that showcase production software engineeri
 
 I'm always happy to connect with engineers, researchers, traders, and builders who enjoy solving challenging problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Adeyemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-a-adeyemi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-a-adeyemi/)
